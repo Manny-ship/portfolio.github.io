@@ -37,18 +37,15 @@
 •	Acquired hands-on experience with Linux OS while showcasing a foundational understanding of their administration and their role in enhancing network capabilities. 
 # Education
 ### Master of Science – Computing                                                          Wichita State University (Dec 2023)     
- 
 •	Computer Networks  
 •	Routing and Switching                                                                                                                           
 •	Software Engineering and Quality                                                                                                               
 •	Machine learning and Database systems
- 
  ### Master’s in technology – Wireless and Mobile Communication                    GNITS - India (Dec 2021)    
- 
 •	Advanced Communication Systems  
 •	Network Security and Cryptography                                                                                                                           
- 
  ### Bachelor’s in technology – Electronics and Communication Engineering  JNTUH - India (May 2018)   
+ 
 # Academic Projects
 •	Thesis – “Reduction of PAPR using Polar Coding techniques using f- OFDM in 5G”. 
 
